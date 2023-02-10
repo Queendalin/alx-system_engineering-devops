@@ -1,0 +1,8 @@
+#!/bin/bash
+ls
+
+#!/bin/bash
+id
+
+#!/bin/bash
+ls -a
