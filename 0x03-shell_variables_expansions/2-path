@@ -1,2 +1,2 @@
 #!/bin/bash 
-$PATH=~/SCRIPTS:$PATH
+PATH=$PATH. /action
